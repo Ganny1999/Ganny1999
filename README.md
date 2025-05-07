@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ganny1999
 - 👀 I’m interested in ... C#, .Net Core, Azure Function App and SQL.
-- 📫 How to reach me ...ganeshnalegave1999@gmail.com
+- 📫 How to reach me ... ganeshnalegave1999@gmail.com
